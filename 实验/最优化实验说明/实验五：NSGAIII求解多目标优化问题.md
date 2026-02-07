@@ -2,9 +2,9 @@
 
 ## 0. 代码来源
 
-老师给的 NSGA-III 算法代码与以下开源项目一致（或高度一致）：
+老师给的 NSGA-III 算法代码与以下开源项目一致：
 
-* [作者仓库](https://github.com/Xavier-MaYiMing/NSGA-III)
+* [NSGA-III](https://github.com/Xavier-MaYiMing/NSGA-III)
 
 原仓库作者在代码头部也写了算法参考文献（Deb & Jain, 2014）。
 本实验**不上传/不直接搬运**老师下发的整套代码文件，仅在日志中说明“如何把原始 `NSGA_III.py` 改造成可测试多个标准测试函数的版本”。
