@@ -38,7 +38,6 @@ def solve_transport(a, b, c):
     return res.x.reshape(m, k), res.fun
 
 
-# ====== 题目给定规模，直接跑 ======
 m, k = 10, 15
 a, b = generate_balanced_ab(m, k, seed=0)
 c = np.random.randint(1, 100, size=(m, k))
